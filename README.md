@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kvsivabharath03
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning java
+- 🌱 I’m good in java
 - 💞️ I’m looking to collaborate on ...
 - 📫 kvsivabharath@gmail.com
 
